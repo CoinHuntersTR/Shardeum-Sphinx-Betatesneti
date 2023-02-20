@@ -86,7 +86,7 @@ operator-cli gui start
 <img width="1440" alt="Ekran Resmi 2023-02-02 22 36 51" src="https://user-images.githubusercontent.com/101462877/216432476-13ee3ec7-9381-4bf2-acb1-09baa8d75ad6.png">
 
   
-## Metamask'ı  SPHINX AĞINDA bağlıyoruz. Sphinx ağı nasıl eklerim dersen [yukarıda](https://github.com/thisislexar/Shardeum-Betanet#sphinx-betanet-a%C4%9F%C4%B1n%C4%B1-metamaske-eklemek-i%C3%A7in-httpsdocsshardeumorgnetworkendpoints) var.
+## Metamask'ı  SPHINX AĞINDA bağlıyoruz. Sphinx ağı nasıl eklerim dersen yukarıda var.
   
   <img width="1440" alt="Ekran Resmi 2023-02-02 22 36 51" src="https://user-images.githubusercontent.com/101462877/216432965-714c474d-a742-4032-b6ca-bea7972962e1.png">
   
