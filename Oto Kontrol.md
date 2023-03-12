@@ -5,10 +5,11 @@
   - Node çalışıyorsa dashboard adımından önce node durdurun.
 
 ```
-apt install screen
+sudo apt install screen
 ```
+- İstediğin bir adı verebilirsiiz "" dahil silip, adı yaz.
 ```
-Screen -S Anasayfa
+sudo screen -S "Screen Adı"
 ```
 ```
 wget -q -O node_control.sh https://raw.githubusercontent.com/CoinHuntersTR/Shardeum-Sphinx-Betatesneti/main/node_control.sh && chmod +x node_control.sh && sudo /bin/bash node_control.sh 
